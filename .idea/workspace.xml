@@ -7,46 +7,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="9db7fa95-227f-45f1-a8a3-a53b3529dea8" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.classpath" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.project" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.settings/org.eclipse.core.resources.prefs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.settings/org.eclipse.jdt.core.prefs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bin/datos/UsuarioDAO.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bin/domain/Alumno.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bin/domain/Asignatura.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bin/domain/Conexion.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bin/domain/Curso.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bin/domain/Nota.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bin/domain/Profesor.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bin/domain/TipoUsuario.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bin/domain/Usuario.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bin/test/TestUsuario.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mysql-connector-j-8.0.33.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/mlpz/java/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/mlpz/java/datos/AsignaturaDatos.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/mlpz/java/datos/CursoDatos.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/mlpz/java/datos/NotaDatos.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/mlpz/java/datos/UsuarioDatos.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/mlpz/java/domain/Alumno.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/mlpz/java/domain/Asignatura.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/mlpz/java/domain/Conexion.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/mlpz/java/domain/Curso.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/mlpz/java/domain/Nota.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/mlpz/java/domain/Profesor.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/mlpz/java/domain/TipoUsuario.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/mlpz/java/domain/Usuario.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/mlpz/java/test/TestAsignatura.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/mlpz/java/test/TestCurso.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/mlpz/java/test/TestNota.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/mlpz/java/test/TestTotal.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/mlpz/java/test/TestUsuario.java" afterDir="false" />
-    </list>
+    <list default="true" id="9db7fa95-227f-45f1-a8a3-a53b3529dea8" name="Changes" comment="Fully Functional Java Manager CLI" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -77,6 +38,7 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "WebServerToolWindowFactoryState": "false",
     "git-widget-placeholder": "master",
     "ignore.virus.scanning.warn.message": "true",
@@ -130,11 +92,23 @@
       <workItem from="1684927587270" duration="892000" />
       <workItem from="1684997732196" duration="2617000" />
       <workItem from="1685000769053" duration="80000" />
-      <workItem from="1685000857909" duration="2549000" />
+      <workItem from="1685000857909" duration="3631000" />
     </task>
+    <task id="LOCAL-00001" summary="Fully Functional Java Manager CLI">
+      <created>1685007180058</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1685007180058</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Fully Functional Java Manager CLI" />
+    <option name="LAST_COMMIT_MESSAGE" value="Fully Functional Java Manager CLI" />
   </component>
 </project>
