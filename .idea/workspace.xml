@@ -97,7 +97,7 @@
       <workItem from="1685000857909" duration="4806000" />
       <workItem from="1685009061897" duration="85000" />
       <workItem from="1685009233755" duration="1208000" />
-      <workItem from="1685083983419" duration="2596000" />
+      <workItem from="1685083983419" duration="3256000" />
     </task>
     <task id="LOCAL-00001" summary="Fully Functional Java Manager CLI">
       <created>1685007180058</created>
@@ -113,7 +113,14 @@
       <option name="project" value="LOCAL" />
       <updated>1685007296496</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Fully Functional Java Manager CLI">
+      <created>1685089596232</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1685089596232</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
